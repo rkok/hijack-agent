@@ -10,6 +10,8 @@ Usage
 2. `cp hijack.dist.py hijack.py` and configure your desired action
 3. `./agent.py <listen interface> [action wait seconds]`
 
+Works well in combination with [bridge-mitm-tools](https://github.com/rkok/bridge-mitm-tools)!
+
 Example usage
 -------------
 
